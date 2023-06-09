@@ -1,8 +1,8 @@
-# [Sponsorname] Audit
+# xETH Mitigation Review
 
 Unless otherwise discussed, this repo will be made public after audit completion, sponsor review, judging, and issue mitigation window.
 
-**Contributors to this repo:** prior to report publication, please review the [Agreements & Disclosures](/issues/1) issue.
+**Contributors to this repo:** prior to report publication, please review the [Agreements & Disclosures](https://github.com/code-423n4/2023-06-xeth-mitigation-findings/issues/1) issue.
 
 ---
 
